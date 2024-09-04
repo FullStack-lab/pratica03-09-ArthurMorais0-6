@@ -75,6 +75,7 @@ app.listen(porta, () => {
 - Executar o servidor
 
 ```prompt
+cd backend
 node index.js
 ```
 
